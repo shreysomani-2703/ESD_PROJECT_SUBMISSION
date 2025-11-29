@@ -1,4 +1,4 @@
-# Student  Management System
+# Student Management System
 
 A Spring Boot-based RESTful API for managing student records with authentication and domain management capabilities.
 
