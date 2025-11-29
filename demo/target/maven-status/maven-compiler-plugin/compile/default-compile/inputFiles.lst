@@ -1,0 +1,10 @@
+/home/shrey/Documents/ESD/project/demo/demo/src/main/java/com/example/demo/config/OAuth2SuccessHandler.java
+/home/shrey/Documents/ESD/project/demo/demo/src/main/java/com/example/demo/config/WebConfig.java
+/home/shrey/Documents/ESD/project/demo/demo/src/main/java/com/example/demo/model/Student.java
+/home/shrey/Documents/ESD/project/demo/demo/src/main/java/com/example/demo/controller/AuthController.java
+/home/shrey/Documents/ESD/project/demo/demo/src/main/java/com/example/demo/repository/StudentRepository.java
+/home/shrey/Documents/ESD/project/demo/demo/src/main/java/com/example/demo/repository/DomainRepository.java
+/home/shrey/Documents/ESD/project/demo/demo/src/main/java/com/example/demo/DemoApplication.java
+/home/shrey/Documents/ESD/project/demo/demo/src/main/java/com/example/demo/model/Domain.java
+/home/shrey/Documents/ESD/project/demo/demo/src/main/java/com/example/demo/controller/StudentController.java
+/home/shrey/Documents/ESD/project/demo/demo/src/main/java/com/example/demo/config/SecurityConfig.java

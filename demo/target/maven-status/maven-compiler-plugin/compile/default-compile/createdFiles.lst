@@ -1,0 +1,11 @@
+com/example/demo/model/Student.class
+com/example/demo/config/WebConfig.class
+com/example/demo/DemoApplication.class
+com/example/demo/config/OAuth2SuccessHandler.class
+com/example/demo/config/SecurityConfig.class
+com/example/demo/config/WebConfig$1.class
+com/example/demo/controller/StudentController.class
+com/example/demo/model/Domain.class
+com/example/demo/repository/DomainRepository.class
+com/example/demo/repository/StudentRepository.class
+com/example/demo/controller/AuthController.class
